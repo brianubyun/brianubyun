@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @brianubyun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- Your Name -->
+# Hi, I'm Brian Byun!
 
-<!---
-brianubyun/brianubyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Introduction -->
+Strong passion for coding and exploring new technology!
+
+## How to Reach Me
+- Email: [brianubyub@gmail.com](mailto:brianubyun@gmail.com)
+- LinkedIn: [Brian byun](https://www.linkedin.com/in/brianubyun/)
+
+<!-- GitHub Stats -->
+![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brianubyun&show_icons=true&theme=radical)
